@@ -115,7 +115,6 @@ var css = csjs`
     border-radius: 5px;
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
     height: 25px;
     padding: 15px 8px;
   }
